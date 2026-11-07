@@ -1,0 +1,11 @@
+*.otbm
+.git-respaldo/
+build/
+.vs/
+vcpkg_installed/
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+.env
